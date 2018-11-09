@@ -1,0 +1,48 @@
+@media only screen and (min-width: 320px) {
+
+.wrapper {
+    padding: 3% 5%;
+	font-size: 17px;
+    line-height: 23px;
+}
+
+    
+
+@media only screen and (min-width: 480px) {
+
+.wrapper {
+    padding: 3% 5%;
+	font-size: 17px;
+}
+
+}
+
+@media only screen and (min-width: 800px) {
+
+.wrapper {
+    padding: 2% 7%;
+    font-size: 18px;
+}
+
+
+@media only screen and (min-width: 1367px) {
+
+.wrapper {
+    padding: 2% 20%;
+    font-size: 20px;
+    line-height: 25px;
+    
+}
+
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+.wrapper {
+    padding: 2% 30%;
+    font-size: 14px;
+}
+
+
+}

@@ -1,0 +1,39 @@
+body {
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.header nav ul li {
+    list-style-type: none;
+    display: inline;
+    background-color: white;
+    border-radius: 7px;
+}
+
+nav a {color: black; text-decoration: none;}
+
+.header  {
+   text-align: center;
+}
+
+.joystick {
+    display: block;
+    margin-left: %;
+    margin-right: 50%;
+    width: 25%;
+}
+
+.violence {
+    display: block;
+    margin-left: %;
+    margin-right: 50%;
+    width: 25%;
+}
+
+.focus {
+    display: block;
+    margin-left: %;
+    margin-right: 50%;
+    width: 25%;
+}
